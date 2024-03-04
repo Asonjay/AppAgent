@@ -2,4 +2,4 @@ login_utils/
 
 apps/
 
-config.yaml
+./config.yaml
