@@ -1,7 +1,7 @@
 MODEL: "OpenAI" # The type of multi-modal LLM you would like to use to power the AppAgent, must be either OpenAI or Qwen
 
 OPENAI_API_BASE: "https://api.openai.com/v1/chat/completions"
-OPENAI_API_KEY: "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" # Set the value to sk-xxx if you host the openai interface for open llm model
+OPENAI_API_KEY: "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" # Set the value to sk-xxx if you host the openai interface for open llm model
 OPENAI_API_MODEL: "gpt-4-vision-preview" # The only OpenAI model by now that accepts visual input
 MAX_TOKENS: 300 # The max token limit for the response completion
 TEMPERATURE: 0.0 # The temperature of the model: the lower the value, the more consistent the output of the model
